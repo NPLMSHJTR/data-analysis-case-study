@@ -1,0 +1,68 @@
+{
+  "collect_time": "2026-11-09 20:20:08",
+  "source_url": "https://movie.douban.com/top250",
+  "records": 250,
+  "pages": [
+    {
+      "page": 1,
+      "start": 0,
+      "records": 25,
+      "status": "ok"
+    },
+    {
+      "page": 2,
+      "start": 25,
+      "records": 25,
+      "status": "ok"
+    },
+    {
+      "page": 3,
+      "start": 50,
+      "records": 25,
+      "status": "ok"
+    },
+    {
+      "page": 4,
+      "start": 75,
+      "records": 25,
+      "status": "ok"
+    },
+    {
+      "page": 5,
+      "start": 100,
+      "records": 25,
+      "status": "ok"
+    },
+    {
+      "page": 6,
+      "start": 125,
+      "records": 25,
+      "status": "ok"
+    },
+    {
+      "page": 7,
+      "start": 150,
+      "records": 25,
+      "status": "ok"
+    },
+    {
+      "page": 8,
+      "start": 175,
+      "records": 25,
+      "status": "ok"
+    },
+    {
+      "page": 9,
+      "start": 200,
+      "records": 25,
+      "status": "ok"
+    },
+    {
+      "page": 10,
+      "start": 225,
+      "records": 25,
+      "status": "ok"
+    }
+  ],
+  "note": "豆瓣 Top250 公开榜单页抓取，未使用登录态，未绕过任何访问控制"
+}
